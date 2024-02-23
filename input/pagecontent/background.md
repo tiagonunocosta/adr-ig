@@ -1,4 +1,4 @@
-### Etapas de uma Reação Adversa
+### Etapas de uma Reação Adversa.
 
 1. **Identificação da Reação ou Alergia**: O processo começa quando uma reação adversa a medicamentos ou uma alergia é identificada em um paciente durante o atendimento médico, seja em um consultório médico, hospital, farmácia ou outro ambiente de cuidados de saúde.
 
